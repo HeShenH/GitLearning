@@ -1,1 +1,7 @@
 Start learning Git...
+git checkout -- <filename>
+git reset HEAD -- <filename>
+git branch -av
+git checkout -b <branchname> <base_branch>
+git clone <url> <directoryname> -o <shortname>
+git remote -av
